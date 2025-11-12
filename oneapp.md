@@ -324,5 +324,3 @@ jobs:
 * **Health checks**: keep `/healthz` fast; App Service pre-warms slots.
 
 ---
-
-If you want, I can add a **progressive ramp** job that automatically steps traffic over time (e.g., 10% → 25% → 50% → 100% with sleeps) — just say the increments you prefer.
