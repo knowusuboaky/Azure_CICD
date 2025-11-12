@@ -1,12 +1,3 @@
-Absolutely — here’s your **final, production-ready README** titled
-🚀 **Deploy Two Azure Web Apps Using Only `azure.yaml`**,
-now including **where to add Repository-level Secrets and Variables** clearly explained and grouped.
-
-Everything here matches your workflow:
-**Staging → (Reviewer approval) → Production**, using App Service + GitHub Actions.
-
----
-
 # 🚀 Deploy Two Azure Web Apps Using Only `azure.yaml`
 
 Deploy both **website** (frontend) and **fastapi** (backend) apps to **Azure App Service**
